@@ -1,2 +1,2 @@
 # pison
-Pison is a Go template engine using Ugo VM
+Pison is a Go HTML Template Engine using [Ugo VM](https://github.com/ozanh/ugo)
